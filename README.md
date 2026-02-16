@@ -37,7 +37,7 @@ The dashboard provides insights into:
 
 ## 📷 Dashboard Preview 
 
-dashboard_screenshot.png.png
+![Dashboard](dashboard_screenshot.png.png)
 
 
 ---
